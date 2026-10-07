@@ -1,4 +1,4 @@
-#include "config_reader.h"
+#include "config_reader.hpp"
 
 #include <cstdio>
 #include <cstring>
