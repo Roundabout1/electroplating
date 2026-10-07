@@ -29,7 +29,7 @@ add_executable(electroplating-ovc main.cpp
     film_classify.hpp
     range.hpp
     film_classify.cpp
-    config_reader.h
+    config_reader.hpp
     config_reader.cpp
 )
 
